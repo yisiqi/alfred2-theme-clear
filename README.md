@@ -1,5 +1,4 @@
-alfred2-theme-clear
-===================
+## Clear
 
 An Alfred 2 theme named Clear
 
